@@ -1,5 +1,6 @@
 # Constant Time
 #The no. of operations do not depend on the size of the input and are always constant.
+
 import time
 
 array_small = ['nemo' for i in range(10)]
