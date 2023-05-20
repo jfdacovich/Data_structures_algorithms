@@ -1,7 +1,7 @@
 import time
 
 large1 = ['nemo' for i in range(100000)]
-large2 = ['nemo' for i in range(100000)]
+large2 = ['nemo' for i in range(100000)] # TODO revisar
 
 def find_nemo(array1, array2):
 
